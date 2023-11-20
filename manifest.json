@@ -1,0 +1,11 @@
+{
+    "name": "Remaining Time Extension",
+    "version": "1.0.0",
+    "description": "Tells you remaining time",
+    "manifest_version": 3,
+    "author": "Sampurna Chapagain",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "It's time!!!"
+    }
+}
